@@ -1,87 +1,76 @@
 {
   "main": {
-    "name": "Sonny Sangha",
-    "occupation": "ReactJS Developer && Instructor @CleverProgrammer",
-    "description": "Full Stack React Developer by Day, Founder && Freelancer by Night. #papaReact",
-    "image": "IG_Sonny.jpeg",
-    "bio": "My name is Sonny, I'm a Full Stack ReactJS Developer. Currently I'm working at Clever Programmer while also coaching ",
-    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
-    "email": "sonny@cleverprogrammer.com",
-    "phone": "+44 12 345 6789",
+    "name": "Sourabh Zalke",
+    "occupation": "Software Engineer@Infosys",
+    "description": "Full Stack JS Developer by Day & Competitive Programmer till midnight 😉",
+    "image": "sourabh.jfif",
+    "bio": "My name is Sourabh, I'm a Full Stack JS Developer. Currently I'm working at Infosys handling client critical projects.",
+    "contactmessage": "Get in touch with me to receive further details, feel free to connect with Competitive Programming related Problems.",
+    "email": "sourabhzalke01@gmail.com",
+    "phone": "+919753147655",
     "address": {
-      "street": "123 Fake Street",
-      "city": "London",
-      "state": "UK",
-      "zip": "ABC 123"
+      "street": "A9202 Sunway Hinjewadi PH-3",
+      "city": "Pune",
+      "state": "Maharashtra",
+      "zip": "411057"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload": "http://timbakerdev.com",
+    "website": "http://www.sourabhzalke.me",
+    "resumedownload": "https://www.linkedin.com/in/sourabh-zalke-0a17a6121/",
     "social": [
       {
-        "name": "facebook",
-        "url": "https://www.facebook.com/sonny.sangha.3",
-        "className": "fa fa-facebook"
-      },
-      {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/saajansangha/",
+        "url": "https://www.linkedin.com/in/sourabh-zalke-0a17a6121/",
         "className": "fa fa-linkedin"
       },
       {
         "name": "instagram",
-        "url": "https://www.instagram.com/ssssangha/",
+        "url": "https://www.instagram.com/sourabh.zalke/",
         "className": "fa fa-instagram"
       },
       {
         "name": "github",
-        "url": "http://github.com/sonnysangha",
+        "url": "http://github.com/sourabhz",
         "className": "fa fa-github"
       }
     ]
   },
   "resume": {
-    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage": "I am good in Data structures and Algorithms and I have solved 200+ coding problems on various platforms like Codechef, Leetcode, Codeforces, Hackerrank.",
     "education": [
       {
-        "school": "University of Kent",
-        "degree": "Masters in Advanced Computer Science",
-        "graduated": "January 2017",
-        "description": "Graduated with Distinction"
+        "school": "Madhav Institute of Technology and Science, Gwalior",
+        "degree": "Bachelors in Computer Science and Engineering",
+        "graduated": "May 2019",
+        "description": "7.2 CGPA, 12th : 89.8%, 10th : 93.8%"
       }
     ],
     "work": [
       {
-        "company": "Clever Programmer",
-        "title": "Team Member && React Specialist",
-        "years": "April 2020 - Present",
-        "description": "Teaching ReactJS to thousands of students."
-      },
-      {
-        "company": "Lindar Media",
-        "title": "Software Engineer",
-        "years": "Nov 2019 - April 2020",
-        "description": "Building MrQ, a gambling website."
+        "company": "Infosys",
+        "title": "System Engineer Specialist",
+        "years": "July 2019 - Present",
+        "description": "I am part of a team of specialist developers which is responsible for fast paced development and global delivery of client critical projects. Developing web applications and PWA using MERN stack."
       }
     ],
     "skills": [
       {
         "name": "ReactJs",
-        "level": "100%"
+        "level": "90%"
       },
       {
-        "name": "CSS",
-        "level": "95%"
+        "name": "Python",
+        "level": "90%"
       },
       {
-        "name": "Git",
-        "level": "60%"
+        "name": "C++",
+        "level": "90%"
       },
       {
-        "name": "Figma && Adobe XD",
-        "level": "55%"
+        "name": "SQL",
+        "level": "85%"
       },
       {
-        "name": "HTML5",
+        "name": "Android Development",
         "level": "80%"
       },
       {
@@ -93,46 +82,22 @@
   "portfolio": {
     "projects": [
       {
-        "title": "MERN Stack WhatsApp Clone",
-        "category": "WhatsApp Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
-        "image": "whatsapp-mern.jpeg",
-        "url": "https://www.youtube.com/watch?v=gzdQDxzW2Tw"
-      },
-      {
-        "title": "MERN Stack TikTok Clone",
-        "category": "TikTok Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
-        "image": "tiktok-mern.jpeg",
-        "url": "https://www.youtube.com/watch?v=g8yGxDMyGiE"
-      },
-      {
-        "title": "Facebook Clone with React",
-        "category": "Facebook Clone built with ReactJS",
-        "image": "facebook-clone.png",
-        "url": "https://www.youtube.com/watch?v=B-kxUMHBxNo"
-      },
-      {
-        "title": "Airbnb Clone",
-        "category": "Facebook Clone built with ReactJS",
-        "image": "airbnb-clone.jpeg",
-        "url": "https://www.youtube.com/watch?v=BtJeH_-XYaA"
-      },
-      {
-        "title": "Netflix Clone",
-        "category": "Facebook Clone built with ReactJS",
-        "image": "netflix-clone.jpeg",
-        "url": "https://www.youtube.com/watch?v=XtMThy8QKqU&t=9358s"
+        "title": "Crony Market Place App",
+        "category": "Android App inspired by We-Chat.",
+        "image": "c.png",
+        "url": "https://github.com/sourabhz/Crony-Social-Marketplace"
       }
     ]
   },
   "testimonials": {
     "testimonials": [
       {
-        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
-        "user": "Kareem Abdul Jabbar"
+        "text": "I am afraid of Sourabh Zalke as I strongly believe he is my upcoming ruthless competitor.",
+        "user": "Mukesh Ambani"
       },
       {
-        "text": "That Sonny Sangha must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
-        "user": "Steve Wozniak... impersonator"
+        "text": "Sourabh is the best man, I have ever met.",
+        "user": "Jennifer Lawrence"
       }
     ]
   }
