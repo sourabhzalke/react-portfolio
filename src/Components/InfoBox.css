@@ -20,6 +20,11 @@
   margin: 20px 50px 10px 50px;
 }
 
+.infoBoxCodeTitle {
+  width: min-content;
+  margin: 20px 50px 10px 50px;
+  background-color: rgb(231, 233, 233) !important;
+}
 .codeSyntax {
   flex: 1;
   margin: 20px 50px 50px 50px;
@@ -51,6 +56,10 @@
   border-color: #cc1034;
 }
 
+.infoBox--topics {
+  border-color: #fff;
+}
+
 .infoBox--code {
   border-color: #818d97;
 }
@@ -76,4 +85,5 @@
 
 .infoBox__title {
   font-size: 1.75rem !important;
+  color: black !important;
 }
